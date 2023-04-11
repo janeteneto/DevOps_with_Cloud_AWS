@@ -32,4 +32,8 @@ We first learned how to push our local changes to our remote repository on GitHu
 ![2023-04-11 (4)](https://user-images.githubusercontent.com/129942042/231210473-8fa93dab-8532-472a-bd73-db8210a7ee86.jpg)
 
 
-5.
+5. Now, to get our public version of the key to copy and paste to register on GitHub, enter the following commands and you should get a very long set of characteres:
+
+
+
+
