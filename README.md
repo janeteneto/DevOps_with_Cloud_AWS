@@ -34,6 +34,13 @@ We first learned how to push our local changes to our remote repository on GitHu
 
 5. Now, to get our public version of the key to copy and paste to register on GitHub, enter the following commands and you should get a very long set of characteres:
 
+![2023-04-11 (7)](https://user-images.githubusercontent.com/129942042/231215899-e670fc3d-94a7-46ca-9b41-e4a7d3d1dc3f.png)
+![2023-04-11 (8)](https://user-images.githubusercontent.com/129942042/231215948-57ebb0bd-98e2-40de-840d-ddaddf770a26.png)
+
+
+6. We are now able to register the key on GitHub by following these steps:
+
+
 
 
 
