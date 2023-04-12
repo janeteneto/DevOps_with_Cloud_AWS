@@ -22,3 +22,15 @@ As mentioned above, Cloud services provide many benefits, ones any organisation 
 - the cost savings from the reduction of upfront capital a business needs to invest for IT infrastructure; 
 - the scalability allows businesses to modify their resources according to their own needs at any given time, without the need of large investments
 - and the security that cloud providers give, makes business rely on them more to protect valuable data
+
+
+
+# Starting with AWS
+
+## Login as IAM user
+
+1. First we downloaded our credentials, then I manually moved the confidential file from Downloads do the `.ssh` previously created.
+
+2. After moving the file to the hidden file, we then logged in using the given credentials and changed the password.
+
+3. Then using the Git terminal, we first `cd .ssh` into the file then used the `nano tech221.pem` to create a new file called tech221.pem (a note file) and edit it using nano. We then copied an ssh-key from a note file sent by Shahrukh and deleted the downloaded file. 
