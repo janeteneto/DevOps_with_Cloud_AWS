@@ -40,4 +40,32 @@
 
 ![2023-04-13 (13)](https://user-images.githubusercontent.com/129942042/231766744-dd2dcdfa-1355-41f5-8120-19a2b80a2916.png)
 
+## Create web server using nginx
+
+- Now that we were able to learn how to launch an instance on AWS and connected the instance on the Git terminal, let's learn how to create a nginx web server with the instance.
+
+1. Run the following commands on the terminal to install nginx:
+````
+sudo apt update
+````
+
+````
+sudo apt upgrade
+````
+
+````
+sudo apt install nginx -y
+````
+
+- Now nginx is up and running! To check, run the `sudo systemctl status nginx` and you should see this:
+
+![2023-04-14](https://user-images.githubusercontent.com/129942042/231911406-26f2111a-5ac6-4ae8-8973-1f2e244e46a2.png)
+
+2. The final step is to check if your IP address is working, go to the Instances page on AWS, select your intance and scroll down to definitions and press "open address":
+
+![2023-04-13 (5)](https://user-images.githubusercontent.com/129942042/231912060-d1380aa2-4895-441e-92b8-6d1ddcd9b366.jpg)
+
+- And you must land on this page:
+
+![image](https://user-images.githubusercontent.com/129942042/231912450-700fabb1-3467-41bf-a637-af23df53e87d.png)
 
