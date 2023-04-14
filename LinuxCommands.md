@@ -59,6 +59,7 @@ add `-y` to confrim we already said yes
 provision.ch - shell cript code:
 
 ````
+#!/bin/bash
 sudo apt update -y
 sudo apt upgrade -y
 sudo apt install nginx -y
