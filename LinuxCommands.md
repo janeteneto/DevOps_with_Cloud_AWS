@@ -56,7 +56,7 @@ add `-y` to confrim we already said yes
 
 `sudo chmod +x provision.sh` - makes it executable
 
-***provision.ch - shell cript code:**
+**provision.ch - shell cript code:**
 
 ````
 #!/bin/bash
