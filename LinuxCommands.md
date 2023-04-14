@@ -55,3 +55,13 @@ add `-y` to confrim we already said yes
 `sudo nano provision.sh` - create file
 
 `sudo chmod +x provision.sh` - makes it executable
+
+provision.ch - shell cript code:
+
+````
+sudo apt update -y
+sudo apt upgrade -y
+sudo apt install nginx -y
+sudo systemctl restart nginx
+sudo systemctl enable nginx
+````
