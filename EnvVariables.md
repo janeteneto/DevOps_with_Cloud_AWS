@@ -37,7 +37,10 @@ variablename=valueofvariable
 
 - Command `export variablename=valueofvariable` to export
 
-** Environments are not persistent.** Which means every variable created on in will disappear if we exist. To make it persistent we need to source the bash environemnt:
+** Environments are not persistent.** Which means every variable created on in will disappear if we exist. To make it persistent we need to source the bash environemnt. It comes down to these steps:
+
+![Linux environment (bash)](https://user-images.githubusercontent.com/129942042/232078689-8c0c756c-42c2-49d1-b8c1-b9f8df13ce00.png)
+
 
 1. First, let's add a variable to the bash env, by running the following command that opens nano and allows us to edit it:
 ````
