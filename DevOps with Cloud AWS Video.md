@@ -1,6 +1,4 @@
-# DevOps and AWS Video
-
- *In this video, I will do a 5-10 minutes presentation on DevOps and Cloud Computing, specifically AWS Cloud.*
+# DevOps and AWS
  
 ![Your paragraph text](https://user-images.githubusercontent.com/129942042/231518852-afcd6111-b1e0-4ae4-9dcd-76226a6ee139.png)
 
