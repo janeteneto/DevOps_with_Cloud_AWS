@@ -1,4 +1,4 @@
-## - Create instance with user data:
+## Create instance with user data:
 
 1. Press "Launch Instance" on the Instances page on top right then fill all settings as normal
 
@@ -15,7 +15,7 @@ sudo systemctl restart nginx
 sudo systemctl enable nginx
 ````
 
-## - If there are no blockers, the instance has been launched with ngnix. Now let's move to create environments and variables in Linux.:
+**- If there are no blockers, the instance has been launched with ngnix. Now let's move to create environments and variables in Linux.:**
 
 1. Connect instance via SSH. The process is the same as usual.
 
@@ -37,7 +37,7 @@ variablename=valueofvariable
 
 - Command `export variablename=valueofvariable` to export
 
-** Environments are not persistent.** Which means every variable created on in will disappear if we exist. To make it persistent we need to source the bash environemnt. It comes down to these steps:
+**Environments are not persistent.** Which means every variable created on in will disappear if we exist. To make it persistent we need to source the bash environemnt. It comes down to these steps:
 
 ![Linux environment (bash)](https://user-images.githubusercontent.com/129942042/232078689-8c0c756c-42c2-49d1-b8c1-b9f8df13ce00.png)
 
